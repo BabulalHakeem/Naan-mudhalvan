@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Naan-mudhalvan/static/css/main.d221dc40.css",
+    "main.js": "/Naan-mudhalvan/static/js/main.b7e4a357.js",
+    "index.html": "/Naan-mudhalvan/index.html",
+    "main.d221dc40.css.map": "/Naan-mudhalvan/static/css/main.d221dc40.css.map",
+    "main.b7e4a357.js.map": "/Naan-mudhalvan/static/js/main.b7e4a357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.b7e4a357.js"
+  ]
+}
